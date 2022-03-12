@@ -1,0 +1,13 @@
+#LoginContainer{
+    margin-top:500px;
+    width: 30%;
+}
+
+#ParentContainer{
+    display: flex;
+    justify-content: center;
+   padding-top: 100px;
+}
+input{
+    width: 30%;
+}
